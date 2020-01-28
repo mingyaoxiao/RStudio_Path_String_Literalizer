@@ -1,0 +1,4 @@
+Name: Path Literalizer
+Description: Correctly escapes backslashes in the path
+Binding: pathLiteralizerAddin
+Interactive: false
